@@ -1,1 +1,1 @@
-export const foo = 'bar';
+export { Inputs, KeysToTrack, KeyTracker, PointerTracker } from './input';
