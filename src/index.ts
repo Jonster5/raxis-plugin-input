@@ -1,1 +1,7 @@
-export { Inputs, KeysToTrack, KeyTracker, PointerTracker } from './input';
+export {
+    Inputs,
+    InputPlugin,
+    KeysToTrack,
+    KeyTracker,
+    PointerTracker,
+} from './input';
